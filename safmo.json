@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "package_name": "com.shopee.id",
+      "redirect_urls": [
+        "https://s.shopee.co.id/2LXBqZJlzg",
+        "https://s.shopee.co.id/1qavGRWgID",
+        "https://s.shopee.co.id/7KvroZ6jWH",
+        "https://s.shopee.co.id/40fPqRjTfR",
+        "https://s.shopee.co.id/9ANVzxYknr"
+      ],
+      "daily_limit": 1
+    },
+    {
+      "package_name": "com.android.chrome",
+      "redirect_urls": [
+        "https://kangarip.com"
+      ],
+      "daily_limit": 1 
+    }
+  ]
+}
