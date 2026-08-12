@@ -7,7 +7,7 @@
         "https://s.shopee.co.id/1qavGRWgID",
         "https://s.shopee.co.id/7KvroZ6jWH"
       ],
-      "daily_limit": 1
+      "daily_limit": 10
     },
     {
       "package_name": "com.shopee.id",
@@ -16,7 +16,7 @@
         "https://s.shopee.co.id/1qavGRWgID",
         "https://s.shopee.co.id/7KvroZ6jWH"
       ],
-      "daily_limit": 1
+      "daily_limit": 10
     }
   ]
 }
