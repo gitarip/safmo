@@ -12,11 +12,9 @@
     {
       "package_name": "com.shopee.id",
       "redirect_urls": [
-        "https://s.shopee.co.id/2LXBqZJlzg",
-        "https://s.shopee.co.id/1qavGRWgID",
-        "https://s.shopee.co.id/7VFYkoE5Gb"
+        "https://s.shopee.co.id/2LXBqZJlzg"
       ],
-      "daily_limit": 4
+      "daily_limit": 1
     }
   ]
 }
